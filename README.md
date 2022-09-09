@@ -8,7 +8,7 @@
 * 📱 Android Developer
 * 📝 Open Source Contributor
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ananddamodaran&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ananddamodaran&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 
 ![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=ANANDDAMODARAN&hide=html&layout=compact)
 
